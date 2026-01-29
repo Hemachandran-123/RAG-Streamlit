@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+huggingface-hub
+chromadb
+numpy
+unstructured
+spacy
+pypdf
+python-docx
+pdfminer.six
